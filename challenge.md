@@ -4,6 +4,8 @@
 
 Write your answers inside this file, where it's indicated by the comments.
 
+
+
 1. We just forked a repo on GitHub.com and want to start working on it locally. What command do we use to do that?
 
 Make sure you're in the right local folder, then use command git clone with SSH link, then make sure you're in the branch you want ot be in.
