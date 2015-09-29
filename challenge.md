@@ -23,7 +23,7 @@ You need to create a new branch: git checkout -b branch_name
 
 5. I want to add a file to the staging area. What git commit would I use?
 
-git add directory_name
+git add 'directory_name'
 
 6. I've been working on a branch, add-directories, to implement a feature. The feature is done and you need to add your changes into the master branch. What git command should I use?
 
