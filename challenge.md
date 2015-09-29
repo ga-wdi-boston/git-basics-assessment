@@ -4,20 +4,18 @@
 
 Write your answers inside this file, where it's indicated by the comments.
 
-1. We just forked a repo on GitHub.com and want to start working on it locally. What command do we use to do that?
+1. We just forked a repo on GitHub.com and want to start working on it locally. What command do we use to do that? git clone "SSH url" then git checkout -b "Name of new Branch"
 
-2. OK, we just wrote some code. What command could we use to see a list of all the changes that have been made since the last commit?
+2. OK, we just wrote some code. What command could we use to see a list of all the changes that have been made since the last commit? git diff^1
 
+3. We want to see more info about a specific commit, specifically who created the commit and when it was done. What command would one use? git log
 
-3. We want to see more info about a specific commit, specifically who created the commit and when it was done. What command would one use?
-
-4. We are tasked with working on a new feature. And want to seperate our work from others in the project. What you we do? What git command would one use?
-
-
-5. I want to add a file to the staging area. What git commit would I use?
+4. We are tasked with working on a new feature. And want to seperate our work from others in the project. What you we do? Create a new branch] What git command would one use? git checkout -b "Name of new branch"
 
 
-6. I've been working on a branch, add-directories, to implement a feature. The feature is done and you need to add your changes into the master branch. What git command should I use?
+5. I want to add a file to the staging area. What git commit would I use? git push origin master
+
+
 
 
 <hr>
