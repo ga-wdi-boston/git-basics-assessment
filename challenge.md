@@ -6,6 +6,7 @@ Write your answers inside this file, where it's indicated by the comments.
 
 1. We just forked a repo on GitHub.com and want to start working on it locally. What command do we use to do that?
 git clone "ssh url"
+
 2. OK, we just wrote some code. What command could we use to see a list of all the changes that have been made since the last commit?
 git status
 
