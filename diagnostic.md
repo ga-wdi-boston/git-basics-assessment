@@ -13,7 +13,7 @@ Write your answers inside this file, where it's indicated by the comments.
 2.  What do you do after cloning a repository, but before starting work?
 
     ```sh
-    Create a new branch to work on.
+    Create a new branch to work on and add files (git add ...) you wish to track. 
     ```
 
 3.  What command do we use to create a new branch? Name this branch `response`
