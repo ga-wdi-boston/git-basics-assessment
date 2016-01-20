@@ -29,7 +29,7 @@ Write your answers inside this file, where it's indicated by the comments.
     changes in our working directory?
 
     ```sh
-    git log
+    git status 
     ```
 
 5.  We want to prepare a change for a commit by adding a file to the staging
