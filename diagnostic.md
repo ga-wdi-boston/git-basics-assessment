@@ -41,7 +41,7 @@ Write your answers inside this file, where it's indicated by the comments.
 6.  Should you ever edit published history?
 
     ```sh
-    No, we should never change history! It would become difficult to track
+    No, we should never change published history! It would become difficult to track
     changes, we would not know who did what change, it could mess up
     commits, etc.
     ```
