@@ -12,7 +12,7 @@ Write your answers inside this file, where it's indicated by the comments.
 
 2.  What do you do after cloning a repository, but before starting work?
 
-    Chnge directories into the repository directory.
+    Change directories into the repository directory.
 
 3.  What command do we use to create a new branch? Name this branch `response`
     in your answer.
@@ -37,11 +37,11 @@ Write your answers inside this file, where it's indicated by the comments.
     directory and named `diagnostic.md`.
 
     ```sh
-    <!-- Remove this comment and place your answer here. -->
+    git add diagnostic.md
     ```
 
 6.  Should you ever edit published history?
 
     ```sh
-    <!-- Remove this comment and place your answer here. -->
+    Noooope.
     ```
