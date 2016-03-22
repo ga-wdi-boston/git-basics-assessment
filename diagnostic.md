@@ -7,7 +7,7 @@ Write your answers inside this file, where it's indicated by the comments.
     repository in your answer.
 
     ```sh
-    git clone git@github.com:philschoof/git-basics-diagnostic.git
+    git clone https://github.com/philschoof/git-basics-diagnostic.git
     ```
 
 2.  What do you do after cloning a repository, but before starting work?
