@@ -7,25 +7,29 @@ Write your answers inside this file, where it's indicated by the comments.
     repository in your answer.
 
     ```sh
-    <!-- Remove this comment and place your answer here. -->
+    git clone git@github.com:soynog/git-basics-diagnostic.git
     ```
 
 2.  What do you do after cloning a repository, but before starting work?
 
-    <!-- Remove this comment and place your answer here. -->
+    Chnge directories into the repository directory.
 
 3.  What command do we use to create a new branch? Name this branch `response`
     in your answer.
 
     ```sh
-    <!-- Remove this comment and place your answer here. -->
+    git branch response
+
+    OR
+
+    git checkout -b response
     ```
 
 4.  We just wrote some code. What command do we use to see a summary of the
     changes in our working directory?
 
     ```sh
-    <!-- Remove this comment and place your answer here. -->
+    git status
     ```
 
 5.  We want to prepare a change for a commit by adding a file to the staging
