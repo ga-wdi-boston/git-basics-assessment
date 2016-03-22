@@ -18,7 +18,7 @@ Write your answers inside this file, where it's indicated by the comments.
     in your answer.
 
     ```sh
-    git checkout -b response
+    git checkout -b response (This also checks out into the branch.)
     ```
 
 4.  We just wrote some code. What command do we use to see a summary of the
@@ -39,5 +39,5 @@ Write your answers inside this file, where it's indicated by the comments.
 6.  Should you ever edit published history?
 
     ```sh
-    You should not, but there technically are people that prefer a clean history.
+    You should not.
     ```
