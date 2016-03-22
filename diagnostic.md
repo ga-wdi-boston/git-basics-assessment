@@ -11,7 +11,7 @@ git clone git@github.com:Jcornmanhomonoff/git-basics-diagnostic.git    ```
 
 2.  What do you do after cloning a repository, but before starting work?
 
-You enter switch into the repository and make a new branch.
+You enter switch into the repository and make a new branch. 
 
 3.  What command do we use to create a new branch? Name this branch `response`
     in your answer.
