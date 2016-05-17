@@ -16,7 +16,7 @@ changes/additions?
 git init
 
 3.What command do we use to create a new branch? Name this branch `response`
-    in your answer. Then, how do we switch to that branch?
+    in your answer . Then, how do we switch to that branch?
 
 ```
 git branch response
