@@ -24,8 +24,8 @@ git branch response
     in your answer. Then, how do we switch to that branch?
 
 ```sh
-git branch response
-git checkout response
+git branch response,
+git checkout response,
 ```
 
 4.We just wrote some code. What command do we use to see a summary of the
