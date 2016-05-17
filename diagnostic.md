@@ -48,7 +48,10 @@ git add diagnostic.md
 6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
 What are the two formatting items you **need** to make up your commit message?
 
-You need a commit title and body.
+You need a commit summary or "headline" and body or "description".
+The headline is the quick first line, should be less than fifty characters.
+The description is more detailed and is separated from the summary by one
+line of whitespace.
 
 7.Should you ever edit published history?
 
