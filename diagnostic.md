@@ -42,8 +42,10 @@ git add diagnostic.md
 6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
 What are the two formatting items you **need** to make up your commit message?
 
-A capitalized short summary, and some more detailed explanatory text describing the changes you made in the imperative, specifically what, why and how.
+A capitalized short summary, and some more detailed explanatory text
+describing the changes you made in the imperative, specifically what,
+why and how.
 
 7.Should you ever edit published history?
 
-<!-- Remove this comment and place your answer here. -->
+Only if you have not shared your commits with other developers.
