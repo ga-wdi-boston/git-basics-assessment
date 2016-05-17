@@ -22,8 +22,11 @@ do work on.
 
 ```sh
 I would probably make the new branch and switch to it with one line:
+
 1. git checkout -b response.
+
 I could also use two lines:
+
 1. git branch response
 2. git checkout response
 ```
