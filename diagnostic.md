@@ -27,21 +27,21 @@ git checkout response
     changes in our working directory?
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
+git status
 ```
 
 5.We want to prepare a change for a commit by adding a file to the staging
     area. What command do we use to stage a file named `diagnostic.md`?
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
+git add diagnostic.md
 ```
 
 6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
 What are the two formatting items you **need** to make up your commit message?
 
-<!-- Remove this comment and place your answer here. -->
+You need a header that's brief but descriptive and a summary two lines beneath the header, which can be longer but also must be descriptive and as concise as possible.
 
 7.Should you ever edit published history?
 
-<!-- Remove this comment and place your answer here. -->
+Nope! Rewrite history, risk changing the future. 
