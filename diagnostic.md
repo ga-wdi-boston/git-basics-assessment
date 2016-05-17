@@ -22,6 +22,7 @@ branch
 ```sh
 Create new branch: git branch response
 Switch to that new 'response' branch: git checkout response
+shortcut: git checkout -b response
 ```
 
 4.We just wrote some code. What command do we use to see a summary of the
