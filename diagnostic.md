@@ -27,15 +27,18 @@ You create a new branch and switch to it using git checkout -b response
     changes in our working directory?
 
 ```sh
-
+git status
 ```
 
 5.We want to prepare a change for a commit by adding a file to the staging
     area. What command do we use to stage a file named `diagnostic.md`?
 
 ```sh
-
+git add diagnostic.m
 ```
 
 6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
 What are the two formatting items you **need** to make up your commit message?
+
+A descriptive title, and an even more descriptive body.
+Both using action verbs.
