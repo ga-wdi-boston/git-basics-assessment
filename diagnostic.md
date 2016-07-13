@@ -32,10 +32,10 @@ git status
     area. What command do we use to stage a file named `diagnostic.md`?
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
+git add diagnostic.md
 ```
 
 6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
-What are the two formatting items you **need** to make up your commit message?
+Summary, and a detailed descrption/list that tells what what changed in the commit.
 
 <!-- Remove this comment and place your answer here. -->
