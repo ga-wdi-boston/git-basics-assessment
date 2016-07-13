@@ -7,26 +7,25 @@ What command do we use to do that? Use the **correct** URL from your fork of
 this repository in your answer.
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
+git clone git@github.com:natGalynker/git-basics-diagnostic.git
 ```
 
 2.What do you do after cloning a repository, before you start making any
-changes/additions?
+make sure you are in the right directory/repo
 
-<!-- Remove this comment and place your answer here. -->
+
 
 3.What command do we use to create a new branch? Name this branch `response`
-    in your answer. Then, how do we switch to that branch?
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
+create a new branch called response by using the git branch <branch name> then git checkout <branch name> to switch
 ```
 
 4.We just wrote some code. What command do we use to see a summary of the
     changes in our working directory?
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
+git status
 ```
 
 5.We want to prepare a change for a commit by adding a file to the staging
