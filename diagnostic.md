@@ -14,6 +14,7 @@ git clone git@github.com:knoddin/git-basics-diagnostic.git
 changes/additions?
 
 Create a new branch.
+Hi Chris!
 
 3.What command do we use to create a new branch? Name this branch `response`
     in your answer. Then, how do we switch to that branch?
