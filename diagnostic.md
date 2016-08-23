@@ -24,12 +24,12 @@ Enter "$ git checkout -b response" into our terminal to start a new branch.
 4.We just wrote some code. What command do we use to see a summary of the
     changes in our working directory?
 
-git status
+$ git status
 
 5.We want to prepare a change for a commit by adding a file to the staging
     area. What command do we use to stage a file named `diagnostic.md`?
 
-git add diagnostic.md
+$ git add diagnostic.md
 
 6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
 What are the two formatting items you **need** to make up your commit message?
