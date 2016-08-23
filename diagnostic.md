@@ -13,7 +13,7 @@ git clone git@github.com:styletab/git-basics-diagnostic.git
 2.What do you do after cloning a repository, before you start making any
 changes/additions?
 
-create a branch and switch to that branch.
+Create a new branch and switch to that branch from the master.
 
 3.What command do we use to create a new branch? Name this branch `response`
     in your answer. Then, how do we switch to that branch?
@@ -40,4 +40,4 @@ git add diagnostic.md
 What are the two formatting items you **need** to make up your commit message?
 
 Concise and descriptive subject line and a description of the changes made in
-the commit. 
+the commit.
