@@ -7,7 +7,7 @@ What command do we use to do that? Use the **correct** URL from your fork of
 this repository in your answer.
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
+git clone git@github.com:james-coombs/git-basics-diagnostic.git
 ```
 
 2.What do you do after cloning a repository, before you start making any
