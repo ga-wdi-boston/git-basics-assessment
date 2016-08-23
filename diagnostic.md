@@ -43,3 +43,5 @@ What are the two formatting items you **need** to make up your commit message?
 what change you are making. It should only be one thing at a time. You also
 need a short description of the change. It should be similar to an email subject
 and body.
+
+I made a new change for my second commit. 
