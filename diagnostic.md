@@ -13,7 +13,7 @@ git clone git@github.com:chrxtina/git-basics-diagnostic.git
 2.What do you do after cloning a repository, before you start making any
 changes/additions?
 
-You "change directory(cd)" into the cloned directory and create a new branch.
+You change directory(cd) into the cloned directory and create a new branch.
 
 3.What command do we use to create a new branch? Name this branch `response`
     in your answer. Then, how do we switch to that branch?
@@ -40,4 +40,5 @@ git add diagnostic.md
 6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
 What are the two formatting items you **need** to make up your commit message?
 
-<!-- Remove this comment and place your answer here. -->
+There should be a capitalized subject line in the imperative mood.
+Body should be detailed but wrap at 72 characters.
