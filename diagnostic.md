@@ -13,30 +13,33 @@ To clone the repository you use: git clone git@github.com:JaimeGaribaldo7/git-ba
 2.What do you do after cloning a repository, before you start making any
 changes/additions?
 
-<!-- Remove this comment and place your answer here. -->
+After you clone the repo, you should make a new branch and switch over to that
+branch.
 
 3.What command do we use to create a new branch? Name this branch `response`
     in your answer. Then, how do we switch to that branch?
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
+To create a new branch, you use: git branch response. After you created the branch, you switch over to it by using: git checkout response.
 ```
 
 4.We just wrote some code. What command do we use to see a summary of the
     changes in our working directory?
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
+To see what changes we made, you use: git log. this will show us a list of the
+commits that we made.
 ```
 
 5.We want to prepare a change for a commit by adding a file to the staging
     area. What command do we use to stage a file named `diagnostic.md`?
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
+To add the file to the staging area, you use: git add diagnostic.md.
 ```
 
 6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
 What are the two formatting items you **need** to make up your commit message?
 
-<!-- Remove this comment and place your answer here. -->
+The two formatting items you need to make up the commit message are: a subject
+and a body.
