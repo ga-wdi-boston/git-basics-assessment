@@ -14,7 +14,7 @@ git clone git@github.com:abeers/git-basics-diagnostic.git
 changes/additions?
 
 Create a new branch to avoid making unwanted changes/additions to the master
-branch.
+branch. Also, be sure to navigate to the desired branch.
 
 3.What command do we use to create a new branch? Name this branch `response`
     in your answer. Then, how do we switch to that branch?
@@ -43,6 +43,7 @@ git add diagnostic.md
 6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
 What are the two formatting items you **need** to make up your commit message?
 
-Subject Line
+Subject Line (brief, 50 characters or less)
 //blank line
-Descriptive Message (all descriptions in present tense)
+Descriptive Message (all descriptions in present tense, can be as long as
+needed)
