@@ -13,7 +13,7 @@ git clone git@github.com:Nishkixs/git-basics-diagnostic.git
 2.What do you do after cloning a repository, before you start making any
 changes/additions?
 
-create a branch
+create a branch and move into that branch
 
 3.What command do we use to create a new branch? Name this branch `response`
     in your answer. Then, how do we switch to that branch?
@@ -39,3 +39,6 @@ git add diagnostic.md
 
 6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
 What are the two formatting items you **need** to make up your commit message?
+
+Present tense - Lines starting
+""# with '#' will be ignored"
