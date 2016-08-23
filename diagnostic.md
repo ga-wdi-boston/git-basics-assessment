@@ -40,10 +40,11 @@ git diff will show you all changes between the last commit and the current state
     area. What command do we use to stage a file named `diagnostic.md`?
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
+git add diagnostic.md
 ```
 
 6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
 What are the two formatting items you **need** to make up your commit message?
 
-<!-- Remove this comment and place your answer here. -->
+A headline that describes the change made, and a body that goes into further
+detail on the changes made. 
