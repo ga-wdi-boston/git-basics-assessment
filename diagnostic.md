@@ -13,7 +13,9 @@ git clone git@github.com:ioncrash/git-basics-diagnostic.git
 2.What do you do after cloning a repository, before you start making any
 changes/additions?
 
-<!-- Remove this comment and place your answer here. -->
+
+
+// addline for extra commit
 
 3.What command do we use to create a new branch? Name this branch `response`
     in your answer. Then, how do we switch to that branch?
