@@ -48,4 +48,4 @@ git add diagnostic.md
 6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
 What are the two formatting items you **need** to make up your commit message?
 
-Subject line and body, separated by a blank line.
+Subject line and body, separated by a blank line. (edit: You also want the subject line to be 50 characters or less).
