@@ -24,7 +24,7 @@ AND/OR 'git checkout <branch>' if a feature or dev branch exists so you
 ```sh
 git branch response
 git checkout response
-OR
+<OR>
 git checkout -b response
 ```
 
@@ -45,11 +45,13 @@ git add diagnostic.md
 6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
 What are the two formatting items you **need** to make up your commit message?
 
-Add a summary of your commit (50 chars or less)
+Add a summary of your commit (50 chars or less)!
 
-Add a further description of your commit in 72 - 80 chars
+Add a further description of your commit in 72 - 80 chars width
 Be sure to add a blank line between the summary and description!
 Use imperative verbs (so 'create', 'add', 'initialize') instead
   of past-tense verbs.
 Write as much as you want in your description! As long as it helps
   describe what you did.
+Try to use concise, easy to follow language. These commit messages
+  are for you as well as others!
