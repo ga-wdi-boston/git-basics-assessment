@@ -46,3 +46,5 @@ What are the two formatting items you **need** to make up your commit message?
 
 a title and a body, i.e. a statement that gives a more thorough explaination of
 what changes are being saved with this commit
+
+Ariel Martin - learning how to use git and github for WDI.
