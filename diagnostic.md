@@ -13,7 +13,7 @@ git clone git@github.com:ioncrash/git-basics-diagnostic.git
 2.What do you do after cloning a repository, before you start making any
 changes/additions?
 
-
+make a new branch and check it out
 
 // addline for extra commit
 
