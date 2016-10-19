@@ -46,4 +46,9 @@ What are the two formatting items you **need** to make up your commit message?
 
 ```sh
 subject and body.
+
+The subject should be 50 characters or less, followed by a blank line before
+the body. The body should be wrapped to about 72 characters. The commit
+message should be written in the imperative.
+
 ```
