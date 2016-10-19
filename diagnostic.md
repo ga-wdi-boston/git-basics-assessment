@@ -40,3 +40,7 @@ git add diagnostic.md
 What are the two formatting items you **need** to make up your commit message?
 
 You need a title (no more than 50 chars) and a Summery (no more than 80 chars per line)
+
+7) Why did you add question #7?
+
+Because we need two commits for this diagnostic!
