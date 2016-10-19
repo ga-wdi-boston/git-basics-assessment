@@ -13,27 +13,30 @@ git clone git@github.com:paulsevere/git-basics-diagnostic.git
 2.What do you do after cloning a repository, before you start making any
 changes/additions?
 ```sh
-Create a new branch and checkout the branch (eg. 'git checkout -b response')
+git status
 ```
 3.What command do we use to create a new branch? Name this branch `response`
     in your answer. Then, how do we switch to that branch?
 
 ```sh
-'git branch response' followed by 'git checkout response' or, 'git checkout -b reponse'
+git branch response
+git checkout response
+or
+git checkout -b reponse
 ```
 
 4.We just wrote some code. What command do we use to see a summary of the
     changes in our working directory?
 
 ```sh
-Use 'git status' to see a summary of changes in the working directory
+git status
 ```
 
 5.We want to prepare a change for a commit by adding a file to the staging
     area. What command do we use to stage a file named `diagnostic.md`?
 
 ```sh
-Use 'git add diagnostic.md'
+git add diagnostic.md
 ```
 
 6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
