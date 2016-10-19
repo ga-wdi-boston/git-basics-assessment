@@ -1,4 +1,5 @@
 # Git Basics Diagnostic
+(adding this line for second commit)
 
 Write your answers inside this file, where it's indicated by the comments.
 
