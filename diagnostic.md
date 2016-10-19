@@ -7,36 +7,48 @@ What command do we use to do that? Use the **correct** URL from your fork of
 this repository in your answer.
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
+You use the git clone command. In this case, I used:
+git clone git@github.com:coffeeisamazing/git-basics-diagnostic.git
 ```
 
 2.What do you do after cloning a repository, before you start making any
 changes/additions?
 
-<!-- Remove this comment and place your answer here. -->
+```sh
+cd into the directory, create a branch, and check git status to be safe.
+The branch allows to avoid messing up master and resetting if needed.
+```
 
 3.What command do we use to create a new branch? Name this branch `response`
     in your answer. Then, how do we switch to that branch?
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
+git branch response
+git checkout response
 ```
 
 4.We just wrote some code. What command do we use to see a summary of the
     changes in our working directory?
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
+git status
 ```
 
 5.We want to prepare a change for a commit by adding a file to the staging
     area. What command do we use to stage a file named `diagnostic.md`?
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
+git add diagnostic.md
 ```
 
 6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
 What are the two formatting items you **need** to make up your commit message?
 
-<!-- Remove this comment and place your answer here. -->
+```sh
+subject and body.
+
+The subject should be 50 characters or less, followed by a blank line before
+the body. The body should be wrapped to about 72 characters. The commit
+message should be written in the imperative.
+
+```
