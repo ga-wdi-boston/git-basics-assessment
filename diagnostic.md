@@ -39,3 +39,4 @@ git add diagnostic.md```
 What are the two formatting items you **need** to make up your commit message?
 
 Title of the commit, and a concise message explaining the commit
+The title should be under 50 characters.  Each commit should be specific, the more commits the better, that way it is easier to explain and diagnose the changes.
