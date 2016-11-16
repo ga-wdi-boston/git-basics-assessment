@@ -13,7 +13,7 @@ git clone git@github.com:mconnors333/git-basics-diagnostic.git
 2.What do you do after cloning a repository, before you start making any
 changes/additions?
 
-List to see if it is there. CD into it. Create a new branch and go to work.
+List to see if it is there. Change into the directory. Create a new branch and go to work.
 
 3.What command do we use to create a new branch? Name this branch `response`
     in your answer. Then, how do we switch to that branch?
