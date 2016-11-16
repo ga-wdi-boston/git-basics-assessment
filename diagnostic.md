@@ -5,9 +5,9 @@ Write your answers inside this file, where it's indicated by the comments.
 1.We just forked a repo on GitHub and want to start working on it locally.
 What command do we use to do that? Use the **correct** URL from your fork of
 this repository in your answer.
-
+https://github.com/patrickthesailorman/git-basics-diagnostic.git
 ```sh
-<!-- Remove this comment and place your answer here. -->
+
 ```
 
 2.What do you do after cloning a repository, before you start making any
