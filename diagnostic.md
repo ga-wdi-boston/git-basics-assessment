@@ -37,4 +37,4 @@ git add diagnostic.md - this will stage diagnostic.md file```
 6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
 What are the two formatting items you **need** to make up your commit message?
 
-<!-- Remove this comment and place your answer here. -->
+git commit will open up atom allowing you to add a short message for your commit, this consist of a subject line, similar to an email, and the body of the message.
