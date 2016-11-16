@@ -28,6 +28,10 @@ project directory.
 git branch response
 git checkout response
 
+or
+
+git checkout -b response
+
 ```
 
 4.We just wrote some code. What command do we use to see a summary of the
@@ -51,6 +55,6 @@ git add diagnostic.md
 6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
 What are the two formatting items you **need** to make up your commit message?
 
-You should have a short header line descrition, then a blank line, then a detailed descrition that is of arbitaty length (as detailed as needed).
+You should have a short header line description, then a blank line, then a detailed description that is of arbitrary length (as detailed as needed).
 
-Alternatively you could use: git commit -m"short message" format which might be sufficient depending upoon the circumstances
+Alternatively you could use: git commit -m"short message" format which might be sufficient depending upon the circumstances
