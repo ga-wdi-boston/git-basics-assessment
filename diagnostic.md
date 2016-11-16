@@ -1,4 +1,4 @@
-# Git Basics Diagnostic
+# Git Basics Diagnostic 🐼
 
 Write your answers inside this file, where it's indicated by the comments.
 
