@@ -45,7 +45,8 @@ What are the two formatting items you **need** to make up your commit message?
 
 <!-- git commit
 atom opens up and I enter a detailed subject line and a detailed message
-then I close atom for the terminal to add the commit 
+then I close atom for the terminal to add the commit
+
 
 NEVER use git commit -m "an example commit message"
 ALWAYS use git status before any other command -->
