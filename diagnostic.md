@@ -40,4 +40,4 @@ git add diagnostic.md
 What are the two formatting items you **need** to make up your commit message?
 
 <!-- Remove this comment and place your answer here. -->
-have the action as a verb in order - do, finish, make
+have the action as a verb in order - do, finish
