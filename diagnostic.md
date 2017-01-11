@@ -41,3 +41,5 @@ git add diagnostic.md
 What are the two formatting items you **need** to make up your commit message?
 
 A short summary and detail explaination message.
+
+#make some change in order to commit one more time
