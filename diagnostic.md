@@ -40,4 +40,4 @@ git add diagnostic.md
 6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
 What are the two formatting items you **need** to make up your commit message?
 
-Use of the imperative and also use of bullet points to jot down notes of commit.
+Use of the imperative and also use of bullet points to jot down notes of commit and submit.
