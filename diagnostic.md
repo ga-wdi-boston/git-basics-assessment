@@ -44,4 +44,6 @@ git add diagnostic.md
 6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
 What are the two formatting items you **need** to make up your commit message?
 
-Title and body - title in correct tense (Add Feature X, not Added Feature X) and short but descriptive body
+```sh
+Title and body - title in correct tense (Add Feature X, not Added Feature X) and short but descriptive body (once it starts getting long that is a sign you did too many things for one commit)
+```
