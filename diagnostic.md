@@ -21,6 +21,8 @@ Make a new branch
 ```sh
 git branch response
 git checkout response
+or
+git checkout -b response
 ```
 
 4.We just wrote some code. What command do we use to see a summary of the
