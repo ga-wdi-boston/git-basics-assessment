@@ -37,3 +37,4 @@ git status -> git add <filename>
 
 6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
 What are the two formatting items you **need** to make up your commit message?
+Clear subject line and a small to the point description of your change/changes
