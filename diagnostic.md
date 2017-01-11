@@ -28,17 +28,21 @@ To switch to that branch use the 'checkout' keyword: git checkout response
     changes in our working directory?
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
+git status
 ```
 
 5.We want to prepare a change for a commit by adding a file to the staging
     area. What command do we use to stage a file named `diagnostic.md`?
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
+git add diagnostic.md
 ```
 
 6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
 What are the two formatting items you **need** to make up your commit message?
 
-<!-- Remove this comment and place your answer here. -->
+The first formatting item is the title/subject line.  It provides a generalization of what changes are made (written in imparative).
+
+The second line is the body line.  It provides a more detailed account of what changes were made with a commit.
+
+The formatting items for a git commit are often compared to that of an email, with the first line being the subject and the body being more detailed text related to the text of the emails.
