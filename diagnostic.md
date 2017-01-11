@@ -6,9 +6,7 @@ Write your answers inside this file, where it's indicated by the comments.
 What command do we use to do that? Use the **correct** URL from your fork of
 this repository in your answer.
 
-```sh
  git clone git@github.com:SquirtleSquad1988/git-basics-diagnostic.git
-```
 
 2.What do you do after cloning a repository, before you start making any
 changes/additions?
@@ -22,6 +20,8 @@ have no potential for interfering with the original code.
 ```sh
 git branch response
 git checkout response
+or
+git checkout -b response
 ```
 
 4.We just wrote some code. What command do we use to see a summary of the
