@@ -39,4 +39,6 @@ git add diagnostic.md
 
 6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
 What are the two formatting items you **need** to make up your commit message?
+```sh
 WE need to have a title or description and we need to have a message.
+```
