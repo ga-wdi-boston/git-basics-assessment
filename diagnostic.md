@@ -46,3 +46,5 @@ The commit message should have a short summary no more than 50 characters long
 then a line separating the summary then after that a body which contains a more
 detailed explanation. The commit message should also be no more than 72 columns
 long and should be written in the imperative format.
+
+** created branch diagnostic instead of response
