@@ -48,3 +48,4 @@ detailed explanation. The commit message should also be no more than 72 columns
 long and should be written in the imperative format.
 
 ** created branch diagnostic instead of response
+** This will be the edit for commit number 2, all other txt unchanged
