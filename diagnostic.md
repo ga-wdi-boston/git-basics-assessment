@@ -46,4 +46,4 @@ git add diagnostic.md
 6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
 What are the two formatting items you **need** to make up your commit message?
 
-A 'title' and a body with more detailed points about specific changes. Both should be written in the imperative.
+A 'title' written in the imperative and a body with more detailed points about specific changes.
