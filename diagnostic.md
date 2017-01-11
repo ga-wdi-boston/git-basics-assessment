@@ -38,3 +38,4 @@ git add diagnostic.md
 
 6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
 What are the two formatting items you **need** to make up your commit message?
+Title in the imperative and then subject with what has changed and why.
