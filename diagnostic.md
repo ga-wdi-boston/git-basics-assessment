@@ -18,7 +18,7 @@ Open the repo and git checkout -b response to create&work from that branch.
     in your answer. Then, how do we switch to that branch?
 
 ```sh
-git checkout -b response```
+"git checkout -b response" However, there is a way to command it in two fold where you create it and then command it to go into the branch but why not just kill two birds with one stone?```
 
 4.We just wrote some code. What command do we use to see a summary of the
     changes in our working directory?
