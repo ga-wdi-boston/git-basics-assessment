@@ -34,4 +34,4 @@ git add diagnostic.md
 6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
 What are the two formatting items you **need** to make up your commit message?
 
-1. file name. 2.Git push origin
+1. explanation of what the purpose of the change/commit was 2. commit message....
