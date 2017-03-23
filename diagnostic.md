@@ -45,4 +45,4 @@ Meaningful headline, line break, meaningful description
 
 -7.Should you ever edit published history?
 
- No...need to have the history for all team members to see.
+ No...need to have the history for all team members to see.  It is considered bad practice to rewrite history.  
