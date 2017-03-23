@@ -40,8 +40,8 @@ git add diagnostic.md
 6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
 What are the two formatting items you **need** to make up your commit message?
 
-<!-- Remove this comment and place your answer here. -->
+Header on the first line to explain the changes.  Subsequent line provides more detail on the commits.
 
 -7.Should you ever edit published history?
 
- <!-- Remove this comment and place your answer here. -->
+No.  It will cause versioning issues when people work on the flows and will make local respositories out of sync.
