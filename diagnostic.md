@@ -43,3 +43,5 @@ What are the two formatting items you **need** to make up your commit message?
 header and body
 
 -7.Should you ever edit published history?
+
+No.
