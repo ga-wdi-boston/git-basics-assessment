@@ -31,7 +31,7 @@ git checkout -b response
 
 ```sh
 git diff
-
+git status also shows which files changed or were modified
 ```
 
 5.We want to prepare a change for a commit by adding a file to the staging
