@@ -44,9 +44,9 @@ git add diagnostic.md
 What are the two formatting items you **need** to make up your commit message?
 
 A title line which is basically a short summary of the commit's purpose (50
-chars or less). Then a blank line. Then below the blank line you can put in more detailed explanatory text as to the what changes were made in the commit so
-other developers understand what you did and why.
+chars or less). Then a blank line. Then below the blank line you can put in more detailed explanatory text as to the what changes were made in the commit and why
+so other developers understand what you did and why.
 
 -7.Should you ever edit published history?
 
- <!-- Remove this comment and place your answer here. -->
+ No. Even though you can, you should not.
