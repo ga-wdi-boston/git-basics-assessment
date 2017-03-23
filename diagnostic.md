@@ -47,3 +47,5 @@ What are the two formatting items you **need** to make up your commit message?
 -7.Should you ever edit published history?
 
  <!-- No, this is a bad practice -->
+
+ <!--test commment in order to submit a second commit-->
