@@ -19,8 +19,7 @@ cd into repo folder and create a new branch
     in your answer. Then, how do we switch to that branch?
 
 ```sh
-git checkout -b response (this command creates the branch and checks it out at
-the same time)
+git checkout -b response (this creates the branch and checks it out at the same time)
 ```
 
 4.We just wrote some code. What command do we use to see a summary of the
