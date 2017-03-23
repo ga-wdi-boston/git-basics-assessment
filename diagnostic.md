@@ -13,7 +13,7 @@ git clone https://github.com/brianedmunds/git-diagnostic.git
 2.What do you do after cloning a repository, before you start making any
 changes/additions?
 
-<!-- Remove this comment and place your answer here. -->
+Create a new branch and run command NPM install.
 
 3.What command do we use to create a new branch? Name this branch `response`
     in your answer. Then, how do we switch to that branch?
