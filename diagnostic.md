@@ -35,14 +35,14 @@ git status
     area. What command do we use to stage a file named `diagnostic.md`?
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
+git add diagnostics.md
 ```
 
 6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
 What are the two formatting items you **need** to make up your commit message?
 
-<!-- Remove this comment and place your answer here. -->
+A head and a body - much like an email
 
 -7.Should you ever edit published history?
 
- <!-- Remove this comment and place your answer here. -->
+ No this should be the defacto history
