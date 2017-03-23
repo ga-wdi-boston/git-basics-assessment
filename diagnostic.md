@@ -43,4 +43,4 @@ What are the two formatting items you **need** to make up your commit message?
 
 -7.Should you ever edit published history?
 
- <!-- Remove this comment and place your answer here. -->
+ <!-- No but can create new edits on top of history -->
