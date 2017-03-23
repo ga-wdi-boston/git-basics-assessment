@@ -43,4 +43,4 @@ need a subject line (line 1) and a description of the changes (line 3)
 
 -7.Should you ever edit published history?
 
- No, rather new updates should be made via subsequent pushes. 
+ No, rather new updates should be made via subsequent pushes. [adding some text for a 2nd commit.]
