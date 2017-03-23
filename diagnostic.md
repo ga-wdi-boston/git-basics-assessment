@@ -39,8 +39,8 @@ git add diagnostic.md
 6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
 What are the two formatting items you **need** to make up your commit message?
 
-The first line should be a like a subject line in an email...Fixed bug in
-the howManyDays()
+The first line should be a like a subject line in an email..."Fixed bug in
+the howManyDays()"
 
 Use bullet type items to explain in more detail what was changed.
 
