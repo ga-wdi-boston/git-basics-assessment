@@ -39,8 +39,8 @@ changes/additions?
 6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
 What are the two formatting items you **need** to make up your commit message?
 
-<!-- first letter in message = capitalized; first word = verb (imperative) -->
+<!-- first letter in message = capitalized; first word = verb (imperative)   -->
 
 -7.Should you ever edit published history?
 
- <!-- No but can create new edits on top of history -->
+ <!-- No but can create new edits on top of history   second time-->
