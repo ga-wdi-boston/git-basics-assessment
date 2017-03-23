@@ -23,10 +23,6 @@ cd git-diagnostic
 // Create a new branch called response.
 // Switch over to the response branch.
 git checkout -b response
-
-// Alternative way to create branch
-git branch response
-git checkout response
 ```
 
 4.We just wrote some code. What command do we use to see a summary of the
