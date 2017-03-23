@@ -51,4 +51,6 @@ Commit title/subject and commit description.
 ```
 -7.Should you ever edit published history?
 
- <!-- Remove this comment and place your answer here. -->
+```sh
+I don't know. Gut instinct says no.
+```
