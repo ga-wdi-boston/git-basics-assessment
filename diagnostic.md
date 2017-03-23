@@ -39,6 +39,7 @@ git add diagnostic.md
 6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
 What are the two formatting items you **need** to make up your commit message?
 
-
+One subject line and a line space between the subject and the description(if used)
 
 -7.Should you ever edit published history?
+NO
