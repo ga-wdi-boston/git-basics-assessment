@@ -33,7 +33,7 @@ git checkout -b [branch name]
     changes in our working directory?
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
+git status
 ```
 
 5.We want to prepare a change for a commit by adding a file to the staging
