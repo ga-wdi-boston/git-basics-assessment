@@ -21,7 +21,12 @@ change into that directory and checkout a new branch
     in your answer. Then, how do we switch to that branch?
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
+--one way--
+git branch [branch name]
+git checkout [branch name]
+
+--second way--
+git checkout -b [branch name]
 ```
 
 4.We just wrote some code. What command do we use to see a summary of the
