@@ -7,40 +7,44 @@ What command do we use to do that? Use the **correct** URL from your fork of
 this repository in your answer.
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
-```
+git clone https://github.com/kqngo/git-diagnostic.git
+"```
 
 2.What do you do after cloning a repository, before you start making any
 changes/additions?
 
-<!-- Remove this comment and place your answer here. -->
+```sh
+we need to change our working dirctory into the root of the repo we cloned
+we need to create and switch to a response branch
+"```
 
 3.What command do we use to create a new branch? Name this branch `response`
     in your answer. Then, how do we switch to that branch?
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
-```
+git branch response
+git checkout response
+ ```
 
 4.We just wrote some code. What command do we use to see a summary of the
     changes in our working directory?
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
+git status
 ```
 
 5.We want to prepare a change for a commit by adding a file to the staging
     area. What command do we use to stage a file named `diagnostic.md`?
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
+git add diagnostic.md
 ```
 
 6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
 What are the two formatting items you **need** to make up your commit message?
 
-<!-- Remove this comment and place your answer here. -->
+need to have 1) the title (summary of changes), and 2) a description of changes made.
 
 -7.Should you ever edit published history?
 
- <!-- Remove this comment and place your answer here. -->
+Published history is used for auditing and tracking, and should not be tampered/edited in any way.
