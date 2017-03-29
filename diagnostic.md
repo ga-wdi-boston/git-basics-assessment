@@ -33,14 +33,14 @@ changes/additions?
     area. What command do we use to stage a file named `diagnostic.md`?
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
+<!-- git add diagnostic.md -->
 ```
 
 6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
 What are the two formatting items you **need** to make up your commit message?
 
-<!-- Remove this comment and place your answer here. -->
+<!--The first line should be looked at like a subject line of an email and the rest of the text like the body. Write clear messages stating what you have changed in detail.  -->
 
 -7.Should you ever edit published history?
 
- <!-- Remove this comment and place your answer here. -->
+ <!-- No. It is not in best practice to do so. If you make a mistake, work on making changes locally and make new commits. -->
