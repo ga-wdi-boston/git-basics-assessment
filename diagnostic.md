@@ -7,40 +7,43 @@ What command do we use to do that? Use the **correct** URL from your fork of
 this repository in your answer.
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
+git clone <https://github.com/pjliddy/git-diagnostic.git>
 ```
 
 2.What do you do after cloning a repository, before you start making any
 changes/additions?
 
-<!-- Remove this comment and place your answer here. -->
+create a feature branch, in this case, 'response'
 
 3.What command do we use to create a new branch? Name this branch `response`
     in your answer. Then, how do we switch to that branch?
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
+git branch 'response' creates the branch. git checkout 'response' switches to the branch. This can be done in one command with git checkout -b 'response'
 ```
 
 4.We just wrote some code. What command do we use to see a summary of the
     changes in our working directory?
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
+git status
 ```
 
 5.We want to prepare a change for a commit by adding a file to the staging
     area. What command do we use to stage a file named `diagnostic.md`?
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
+git add 'diagnostic.md'
 ```
 
 6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
 What are the two formatting items you **need** to make up your commit message?
 
-<!-- Remove this comment and place your answer here. -->
+The first line in the commit message is the concise title of the commit.
+After skipping a line in the message file, the second item is the description
+of the commit, explaining what was changed and why.
 
 -7.Should you ever edit published history?
 
- <!-- Remove this comment and place your answer here. -->
+ Published history on GitHub should never be changed. All updates should take
+ place through git commit messages.
