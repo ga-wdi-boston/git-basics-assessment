@@ -7,26 +7,26 @@ What command do we use to do that? Use the **correct** URL from your fork of
 this repository in your answer.
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
+<!-- Copy the SSH file and clone it into the diagnostics folder using the command: git clone git@github.com:mlynnes/git-diagnostic.git -->
 ```
 
 2.What do you do after cloning a repository, before you start making any
 changes/additions?
 
-<!-- Remove this comment and place your answer here. -->
+<!-- Check to see that the repo is where you want it to be and create a new branch to work on it locally -->
 
 3.What command do we use to create a new branch? Name this branch `response`
     in your answer. Then, how do we switch to that branch?
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
+<!-- To create a new branch with the name response use the command: git checkout -b response. This also switches you to that branch but to switch back to the master you could use: git checkout master -->
 ```
 
 4.We just wrote some code. What command do we use to see a summary of the
     changes in our working directory?
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
+<!-- git log -->
 ```
 
 5.We want to prepare a change for a commit by adding a file to the staging
