@@ -7,40 +7,45 @@ What command do we use to do that? Use the **correct** URL from your fork of
 this repository in your answer.
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
+<!-- git clone git@github.com:rowlandhill/git-diagnostic.git -->
 ```
 
 2.What do you do after cloning a repository, before you start making any
 changes/additions?
 
-<!-- Remove this comment and place your answer here. -->
+<!-- Move into that folder and checkout to a new branch -->
 
 3.What command do we use to create a new branch? Name this branch `response`
     in your answer. Then, how do we switch to that branch?
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
+<!-- to create a branch, we type: git checkout -b response -->
+<!-- to switch over to that branch, we type: git checkout response -->
 ```
 
 4.We just wrote some code. What command do we use to see a summary of the
     changes in our working directory?
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
+<!-- git status -->
 ```
 
 5.We want to prepare a change for a commit by adding a file to the staging
     area. What command do we use to stage a file named `diagnostic.md`?
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
+<!-- git add diagnostic.md -->
 ```
 
 6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
 What are the two formatting items you **need** to make up your commit message?
 
-<!-- Remove this comment and place your answer here. -->
+<!-- You need to have a subject line and you need to explain the changes  -->
+<!-- that you made so the next person to look at your code knows exactly -->
+<!-- what you did. -->
 
 -7.Should you ever edit published history?
 
- <!-- Remove this comment and place your answer here. -->
+ <!-- No, the history should only reflect that changes that were made.  the -->
+ <!-- history is sacred so that the developers that follow have an accurate -->
+ <!-- description of the process -->
