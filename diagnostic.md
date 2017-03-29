@@ -46,5 +46,6 @@ file in an imperative way.
 
 -7.Should you ever edit published history?
 
- As a good practice, one should always create a new branch and work  and commit
- on that branch, before pulling it back to the origin repository.
+ As a good practice, one should always create a new branch, work and commit
+ on that branch, before pulling it back to the origin repository. If you make
+ any changes, make sure you commit, explaning what those changes were.
