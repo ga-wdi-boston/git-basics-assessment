@@ -25,7 +25,9 @@ or all in one: git checkout -b response
     changes in our working directory?
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
+I am not 100% as to the context of this question. To see the changes on the commit,
+you would use git log. To use the cmd line to view actual changes you can
+concatenate.
 ```
 
 5.We want to prepare a change for a commit by adding a file to the staging
@@ -38,8 +40,12 @@ git add diagnostic.md
 6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
 What are the two formatting items you **need** to make up your commit message?
 
-<!-- Remove this comment and place your answer here. -->
+Top line (essentially a subject line), that is a simple breifing of the commit.
+
+below this: you provied an explanation for your changes. Can be as long as needed
+but a best practice would be to keep it concise and as short as possible given
+that is possible. Make it easier for your colleagues to follow along.
 
 -7.Should you ever edit published history?
 
- <!-- Remove this comment and place your answer here. -->
+No you should not.
