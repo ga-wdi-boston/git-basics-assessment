@@ -34,14 +34,14 @@ git status
     area. What command do we use to stage a file named `diagnostic.md`?
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
+git add diagnostic.md
 ```
 
 6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
 What are the two formatting items you **need** to make up your commit message?
 
-<!-- Remove this comment and place your answer here. -->
+Your commit message should have a title and a description
 
 -7.Should you ever edit published history?
 
- <!-- Remove this comment and place your answer here. -->
+You should not go back and edit published history, as it will just make it more confusing for people who you are sharing it with.   If you want to make a change you should make it in a new commit.  Or, if you want to change a commit message before you publish that is probably a good idea as well, but you should not go back after you have published and alter the past.
