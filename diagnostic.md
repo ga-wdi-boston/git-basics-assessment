@@ -7,19 +7,21 @@ What command do we use to do that? Use the **correct** URL from your fork of
 this repository in your answer.
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
+git clone git@github.com:noobiwankenoobi/git-diagnostic.git
 ```
 
 2.What do you do after cloning a repository, before you start making any
 changes/additions?
 
-<!-- Remove this comment and place your answer here. -->
+You make sure you move into the correct directory and that it says (master) next to it.
 
 3.What command do we use to create a new branch? Name this branch `response`
     in your answer. Then, how do we switch to that branch?
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
+I like to create a branch move to it in the same command.
+We use:
+git checkout -b <branchname> to do that
 ```
 
 4.We just wrote some code. What command do we use to see a summary of the
