@@ -13,7 +13,7 @@ this repository in your answer.
 2.What do you do after cloning a repository, before you start making any
 changes/additions?
 
-<!-- Move into that folder and checkout to a new branch -->
+<!-- Move into that folder and checkout to a new branch. -->
 
 3.What command do we use to create a new branch? Name this branch `response`
     in your answer. Then, how do we switch to that branch?
