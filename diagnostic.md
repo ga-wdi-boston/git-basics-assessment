@@ -43,5 +43,5 @@ Top line should be like a email title
 Skip a line and document what you changed and why in clear terminology. Then line space  commits should be completed within 72 characters
 
 -7.Should you ever edit published history?
-yes if commit message was not satisfactory.
-git commit --amend will allow for changing of last commit comment this
+yes if commit message was not satisfactory.git
+git commit --amend will allow for changing of last commit comment.
