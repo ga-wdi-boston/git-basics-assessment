@@ -47,4 +47,4 @@ A header and 1-2 paragraph(s) explaining what edits you have made.
 
 -7.Should you ever edit published history?
 
- <!-- Remove this comment and place your answer here. -->
+ No. While you can rewrite public history, it is not best practice to do so. If you change a commit that other developers have based their work on, that part of the work will dissappear from their project history. 
