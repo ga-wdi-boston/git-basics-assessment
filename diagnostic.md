@@ -44,3 +44,4 @@ What are the two formatting items you **need** to make up your commit message?
 -7.Should you ever edit published history?
 
  <!-- No, the published history is HISTORY for reason to reference past versions. -->
+This is just an added space for change
