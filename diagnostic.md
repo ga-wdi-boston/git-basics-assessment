@@ -42,8 +42,8 @@ git add diagnostic.md
 6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
 What are the two formatting items you **need** to make up your commit message?
 
-<!-- Remove this comment and place your answer here. -->
+a one line summary and a more descriptive paragraph?
 
 -7.Should you ever edit published history?
 
- <!-- Remove this comment and place your answer here. -->
+No
