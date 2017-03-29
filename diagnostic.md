@@ -20,7 +20,7 @@ git init
 
 ```sh
 git branch response
-git checkout
+git checkout response
 
 OR
 
@@ -32,6 +32,9 @@ git checkout -b response
 
 ```sh
 git status
+OR
+git diff
+depending on what you mean by "summary of the changes"
 ```
 
 5.We want to prepare a change for a commit by adding a file to the staging
@@ -44,14 +47,14 @@ git add diagnostic.md
 6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
 What are the two formatting items you **need** to make up your commit message?
 
-I'm not exactly sure what "formatting items" means in this context.
+I'm not exactly sure what "formatting items" means in this context...
 
 The commit message should contain 1) a short summary and 2) a longer explanation
 if necessary.
 
-The message should also 1) explain what part of the codebase was changed and 2)
+The message should also explain 1) what part of the codebase was changed and 2)
 how without having to look at the code
 
 -7.Should you ever edit published history?
 
-No.
+No, you should not.
