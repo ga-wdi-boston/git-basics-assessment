@@ -14,13 +14,14 @@ git clone https://github.com/nriser/git-diagnostic.git
 changes/additions?
 
 git status
+This is to make sure that your repository has been git initialized.
 
 3.What command do we use to create a new branch? Name this branch `response`
     in your answer. Then, how do we switch to that branch?
 
 ```sh
 git branch response
-git checkout --response
+git checkout response
 
 or 2-in-1 step:
 git checkout -b response
@@ -43,8 +44,11 @@ git add diagnostic.md
 6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
 What are the two formatting items you **need** to make up your commit message?
 
-A header and 1-2 paragraph(s) explaining what edits you have made.
+A header and 1-2 paragraph(s) explaining what edits you have made in details,
+as well as NOT going over approximately 72 characters long in one line.
 
 -7.Should you ever edit published history?
 
- No. While you can rewrite public history, it is not best practice to do so. If you change a commit that other developers have based their work on, that part of the work will dissappear from their project history. 
+ No. While you can rewrite public history, it is not best practice to do so. If
+ you change a commit that other developers have based their work on, that part
+ of the work will dissappear from their project history.
