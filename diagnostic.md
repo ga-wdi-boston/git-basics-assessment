@@ -28,21 +28,23 @@ git checkout -b <branchname> to do that
     changes in our working directory?
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
+we use:   git status
 ```
 
 5.We want to prepare a change for a commit by adding a file to the staging
     area. What command do we use to stage a file named `diagnostic.md`?
 
 ```sh
-<!-- Remove this comment and place your answer here. -->
+We use:   git add diagnostic.md
 ```
 
 6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
 What are the two formatting items you **need** to make up your commit message?
 
-<!-- Remove this comment and place your answer here. -->
+Capitalize the subject line. Limit it to 50 characters.
+I think you should limit the width of your commit message overall to 72 characters.
+I've also read that you should separate the subject line from the body with a blank space.
 
 -7.Should you ever edit published history?
 
- <!-- Remove this comment and place your answer here. -->
+No, you should never manually edit published history
