@@ -26,7 +26,7 @@ git checkout -b response, creates and switches to the new branch
     changes in our working directory?
 
 ```sh
-git status
+git log
 ```
 
 5.We want to prepare a change for a commit by adding a file to the staging
@@ -39,7 +39,7 @@ git add diagnostic.md
 6.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
 What are the two formatting items you **need** to make up your commit message?
 
-
+detailed but clear message
 
 -7.Should you ever edit published history?
 
