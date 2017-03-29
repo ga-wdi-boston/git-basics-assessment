@@ -7,7 +7,7 @@ What command do we use to do that? Use the **correct** URL from your fork of
 this repository in your answer.
 
 ```sh
-Move into the appropriate folder on your local, and then 'git clone' https://github.com/mangoceylon/git-diagnostic.git
+Move into the appropriate folder on your local, and then git clone https://github.com/mangoceylon/git-diagnostic.git
 ```
 
 2.What do you do after cloning a repository, before you start making any
