@@ -19,7 +19,7 @@ You make sure you move into the correct directory and that it says (master) next
     in your answer. Then, how do we switch to that branch?
 
 ```sh
-I like to create a branch move to it in the same command.
+I like to create a branch and move to it in the same command.
 We use:
 git checkout -b <branchname> to do that
 ```
