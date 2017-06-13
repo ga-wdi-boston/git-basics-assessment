@@ -29,15 +29,14 @@ changes/additions?
 <!-- Remove this comment and place your answer here. -->
 ```
 
-1.We want to prepare a change for a commit by adding a file to the staging
-    area. What command do we use to stage a file named `diagnostic.md`?
-
-```sh
+1.We want to prepare a change for a commit by adding a file to the staging area. What command do we use to stage a file named `diagnostic.md`?
 <!-- Remove this comment and place your answer here. -->
-```
+
 
 1.Once `diagnostic.md` is staged, we have to make a commit by `git commit`.
-What are the two formatting items you **need** to make up your commit message?
+<!-- Remove this comment and place your answer here. -->
+
+1.What are the two formatting items you **need** to make up your commit message?
 
 <!-- Remove this comment and place your answer here. -->
 
